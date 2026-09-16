@@ -1,7 +1,13 @@
+
+<p align="center">
+  <img src="./profile.jpg.png" width="180" alt="Rushikesh Chaudhari" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Rushikesh Chaudhari</h1>
 
 <h3 align="center">
-Full Stack Developer | Java • Spring Boot • React • Next.js
+Full Stack Developer | Java • Spring Boot • React.js • Next.js
 </h3>
 
 <p align="center">
@@ -135,4 +141,4 @@ A web-based dental clinic management system designed to manage patients and appo
 🔥 Firebase & Firestore
 🗄️ PostgreSQL & MySQL
 🔐 REST APIs & Authentication
-🚀 Full Stack Web Development
+🚀 Full Stack Development
