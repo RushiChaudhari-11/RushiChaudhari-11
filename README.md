@@ -135,10 +135,69 @@ A web-based dental clinic management system designed to manage patients and appo
 
 ## 💼 Current Focus
 
-```text
-☕ Java & Spring Boot
-⚛️ React & Next.js
-🔥 Firebase & Firestore
-🗄️ PostgreSQL & MySQL
-🔐 REST APIs & Authentication
-🚀 Full Stack Development
+- ☕ Java & Spring Boot
+- ⚛️ React & Next.js
+- 🔥 Firebase & Firestore
+- 🗄️ PostgreSQL & MySQL
+- 🔐 REST APIs & Authentication
+- 🚀 Full Stack Development
+
+---
+
+## 🎯 Professional Interests
+
+- Full Stack Web Development
+- Backend Development with Java & Spring Boot
+- Modern Frontend Development with React & Next.js
+- REST API Development
+- Firebase & Cloud-based Applications
+- Database Design & Integration
+- SEO-friendly and responsive web development
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RushiChaudhari-11&theme=tokyonight" alt="GitHub Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RushiChaudhari-11&theme=tokyonight" alt="Repositories Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RushiChaudhari-11&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RushiChaudhari-11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RushiChaudhari-11&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/RushiChaudhari-11">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/rushikesh-chaudhari-3a21872b5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">
+🚀 Building • Learning • Improving
+</h3>
