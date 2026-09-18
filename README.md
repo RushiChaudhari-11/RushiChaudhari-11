@@ -1,14 +1,9 @@
 
 <p align="center">
-  <img src="./profile.jpg.png" width="180" alt="Rushikesh Chaudhari" />
+  <img src="./github-banner.png.png" width="100%" alt="Rushikesh Chaudhari - Full Stack Developer" />
 </p>
 
-
-<h1 align="center">Hi 👋, I'm Rushikesh Chaudhari</h1>
-
-<h3 align="center">
-Full Stack Developer | Java • Spring Boot • React.js • Next.js
-</h3>
+<br>
 
 <p align="center">
   <a href="https://github.com/RushiChaudhari-11">
@@ -17,7 +12,6 @@ Full Stack Developer | Java • Spring Boot • React.js • Next.js
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 
 I'm a Full Stack Developer passionate about building modern, scalable, and user-friendly web applications.
