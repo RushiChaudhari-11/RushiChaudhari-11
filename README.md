@@ -169,18 +169,12 @@ A web-based dental clinic management system designed to manage patients and appo
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RushiChaudhari-11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
-## 📈 Contribution Activity
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RushiChaudhari-11&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RushiChaudhari-11&theme=tokyonight" width="95%" alt="GitHub Profile Details" />
 </p>
 
 ---
